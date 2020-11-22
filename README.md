@@ -1,5 +1,5 @@
 ## About
-This repository is for practicing Turtle 
+This repository is for practicing Turtle.
 
 ## Installation
 <code> pip install PythonTurtle </code>
