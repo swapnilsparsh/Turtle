@@ -1,4 +1,4 @@
-## About the Repo
+## About
 This repo is for practicing Turtle 
 
 ## Installation
