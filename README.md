@@ -2,7 +2,13 @@
 This repository is for practicing Turtle.
 
 ## Installation
-<code> pip install PythonTurtle </code>
+1. Star the Repo 🌟 and this will keep me motivated.
+
+2. Install turtle
+```sh
+pip install PythonTurtle
+```
+
 
 ## Connect with me
 <a href="https://github.com/swapnilsparsh" target="_blank">
